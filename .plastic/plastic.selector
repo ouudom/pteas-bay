@@ -1,0 +1,3 @@
+repository "nham-ey@vaneathzz@cloud"
+  path "/"
+    smartbranch "/main/dev_5_12"
